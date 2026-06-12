@@ -61,3 +61,26 @@ Performance Testing
 Load Testing
 Stress Testing
 End-to-End Testing
+
+
+
+📋 Functional Test Scenarios
+Expense Management
+Add expense with valid values
+Add multiple expenses
+Verify saved expenses
+Validate summary calculations
+Navigation
+Navigate between Home and Summary
+Verify screen transitions
+Filters
+Filter expenses by:
+Today
+This Month
+This Year
+Validation Testing
+Empty amount
+Empty description
+Negative values
+Invalid characters
+Large input handling
