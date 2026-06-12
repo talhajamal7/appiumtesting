@@ -1,1 +1,38 @@
-####appium testing 
+Expense Tracker App
+
+A mobile expense tracking application developed to help users record and manage expenses efficiently while maintaining a simple and user-friendly experience. This project includes application development along with comprehensive testing and quality validation.
+
+📌 Project Overview
+
+Expense Tracker allows users to:
+
+Add and manage expenses
+Track spending activity
+View expense summaries
+Filter records by time
+Navigate easily between screens
+
+The project was tested through multiple testing approaches including functional, performance, regression, and end-to-end testing.
+
+✨ Features
+Add Expense functionality
+Floating Action Button (FAB)
+Expense amount input
+Expense description input
+Home dashboard
+Summary screen
+Expense filtering:
+Today
+This Month
+This Year
+Responsive UI navigation
+Error and validation handling
+🛠 Tech Stack
+Development
+Mobile Application Development
+Testing
+Appium
+Android Emulator (API 30+)
+Manual & Automated Testing
+Environment
+Windows OS
