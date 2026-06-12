@@ -84,3 +84,28 @@ Empty description
 Negative values
 Invalid characters
 Large input handling
+
+
+🚀 User Flow
+Launch application
+Open Add Expense form
+Enter amount
+Enter description
+Save expense
+View summary
+Apply filters
+Continue tracking expenses
+📁 Project Structure
+ExpenseTracker/
+│
+├── app/
+├── tests/
+│   ├── smoke/
+│   ├── functional/
+│   ├── regression/
+│   ├── performance/
+│   └── e2e/
+│
+├── screenshots/
+├── docs/
+└── README.md
