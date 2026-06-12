@@ -36,3 +36,28 @@ Android Emulator (API 30+)
 Manual & Automated Testing
 Environment
 Windows OS
+
+
+🧪 Testing Overview
+Test Information
+Item	Details
+Project	Expense Tracker
+Environment	Windows / Android Emulator
+Designed By	Talha Jamal (055), Muhammad Hassam (037)
+Reviewed By	Ms Aania Majed
+Executed By	Talha Jamal, Muhammad Hassam
+Execution Date	07/06/2026
+Test Coverage
+
+Total Test Cases Executed: 60
+
+Testing Types Covered
+Smoke Testing
+Functional Testing
+Regression Testing
+UI Testing
+Negative Testing
+Performance Testing
+Load Testing
+Stress Testing
+End-to-End Testing
