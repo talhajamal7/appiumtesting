@@ -174,6 +174,19 @@ ExpenseTracker/
 * Multi-device Support
 
 ---
+# Expense Tracker App
+
+## APK Download
+The APK file is available in this repository.
+
+## How to Install
+1. Download the APK file
+2. Allow installation from unknown sources
+3. Install and open the app
+
+## Project
+Mobile automation testing project using Appium.
+---
 
 # ▶️ Getting Started
 
